@@ -171,7 +171,7 @@ class _SignInState extends State<SignIn> {
                         RichText(
                           text: TextSpan(children: [
                             TextSpan(
-                                text: "Already have an account?",
+                                text: "  Don't have an account?",
                                 style: TextStyle(
                                     color: Colors.white,
                                     fontSize: 15,
