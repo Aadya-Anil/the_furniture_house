@@ -210,7 +210,7 @@ class _ProductsState extends State<Products> {
                                   SizedBox(width: 10),
                                   ItemBox(
                                     pdtimg: "images/Kitchen 351.jpeg",
-                                    pdtname: "Chair 4",
+                                    pdtname: "Chair 5",
                                     pdtprize: "100",
                                   ),
                                 ],
@@ -561,7 +561,7 @@ class _LivingState extends State<Living> {
                                   SizedBox(width: 10),
                                   ItemBox(
                                     pdtimg: "images/Living 351.jpeg",
-                                    pdtname: "Chair 4",
+                                    pdtname: "Chair 5",
                                     pdtprize: "890",
                                   ),
                                 ],
@@ -841,7 +841,7 @@ class _OfficeState extends State<Office> {
                                   SizedBox(width: 10),
                                   ItemBox(
                                     pdtimg: "images/Living 351.jpeg",
-                                    pdtname: "Chair 4",
+                                    pdtname: "Chair 5",
                                     pdtprize: "890",
                                   ),
                                 ],
@@ -1121,7 +1121,7 @@ class _DiningState extends State<Dining> {
                                   SizedBox(width: 10),
                                   ItemBox(
                                     pdtimg: "images/Living 351.jpeg",
-                                    pdtname: "Chair 4",
+                                    pdtname: "Chair 5",
                                     pdtprize: "890",
                                   ),
                                 ],
@@ -1466,7 +1466,7 @@ class _StudyState extends State<Study> {
                                   SizedBox(width: 10),
                                   ItemBox(
                                     pdtimg: "images/Living 351.jpeg",
-                                    pdtname: "Chair 4",
+                                    pdtname: "Chair 5",
                                     pdtprize: "890",
                                   ),
                                 ],

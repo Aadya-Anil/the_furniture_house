@@ -112,7 +112,7 @@ class _LoggedInState extends State<LoggedIn> {
                                 child: ProductTile(
                                     image: "images/kitchen.jpeg",
                                     name: "kitchen",
-                                    count: "10"),
+                                    count: "15"),
                               ),
                               SizedBox(
                                 width: 15,
@@ -127,7 +127,7 @@ class _LoggedInState extends State<LoggedIn> {
                                 child: ProductTile(
                                     image: "images/Living Room.jpeg",
                                     name: "Living Room",
-                                    count: "10"),
+                                    count: "15"),
                               ),
                             ],
                           ),
@@ -147,7 +147,7 @@ class _LoggedInState extends State<LoggedIn> {
                                 child: ProductTile(
                                     image: "images/Bedroom.jpeg",
                                     name: "Bedroom",
-                                    count: "10"),
+                                    count: "15"),
                               ),
                               SizedBox(
                                 width: 15,
@@ -162,7 +162,7 @@ class _LoggedInState extends State<LoggedIn> {
                                 child: ProductTile(
                                     image: "images/Office.jpeg",
                                     name: "Office",
-                                    count: "10"),
+                                    count: "15"),
                               ),
                             ],
                           ),
@@ -182,7 +182,7 @@ class _LoggedInState extends State<LoggedIn> {
                                 child: ProductTile(
                                     image: "images/Dining Hall.jpeg",
                                     name: "Dining Hall",
-                                    count: "10"),
+                                    count: "15"),
                               ),
                               SizedBox(
                                 width: 15,
@@ -197,7 +197,7 @@ class _LoggedInState extends State<LoggedIn> {
                                 child: ProductTile(
                                     image: "images/Study Room.jpeg",
                                     name: "Study Room",
-                                    count: "10"),
+                                    count: "15"),
                               ),
                             ],
                           ),
